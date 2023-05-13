@@ -6,7 +6,7 @@
 
 ![White – 9](https://github.com/BahaaAlnabeeh/Camel-Express-App/assets/42490211/d18d8be4-82f7-45ab-887a-2a24cbfc5a9c)
 
-![White – 10](https://github.com/BahaaAlnabeeh/Camel-Express-App/assets/42490211/d79b9f5c-fed1-4380-9a00-0c9fcb407fcc)
+![White – 10](https://github.com/BahaaAlnabeeh/Camel-Express-App/assets/42490211/5a997d26-c3f4-44a8-afbd-b1812e816bf8)
 
-![White – 6](https://github.com/BahaaAlnabeeh/Camel-Express-App/assets/42490211/575290db-12ed-40c9-a20b-5f5fb818b624)
+![White – 6](https://github.com/BahaaAlnabeeh/Camel-Express-App/assets/42490211/245760df-e9ac-4058-96d1-e7021df0c7ea)
 
