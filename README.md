@@ -1,6 +1,18 @@
 # Camel-Express-App
 
-This App For Vendors 
+Camel Express app is a unique application developed for vendors using the Flutter framework to enable the application on both Android and iOS systems.
+
+It has many features, including:
+*  Store owners can track order list, their products, offers, and discounts.
+*  They can view a sales report on a weekly, monthly, or yearly basis (Chart).
+*  They can add their products through the application.
+*  They can filter all their products and see which ones are available or in progress.
+*  They can filter their order list and see the status of each order, whether it has been delivered or is still being processed.
+*  They can add offers and coupons to their products.
+*  They can see customer ratings on their products.
+*  There is a delivery service (Shgardi), which allows you to deliver all your products, whether they are small orders or large ones like furniture, in addition to the possibility of delivering your cars to a repair garage.
+
+For more details and other features, Do not hesitate to contact me at email: alnbyhbha@gmail.com.
 
 App Screens:
 
